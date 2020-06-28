@@ -1,0 +1,78 @@
+
+/* Style sheet
+   color picker www.w3schools.com/colors/colors_picker.asp
+*/
+
+/* Bootstrap default font-family is Helvetica Neue */
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #fe9801 ;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 3px 3px 1px black;
+  
+}
+.btn-primary {
+    background-color: #fe9801;
+}
+
+h3 {
+    color: black;
+}
+
+.text-center {
+    color: black
+}
+
+.container {
+    
+}
+
+.table {
+    background-color: #fcdb81;
+}
+
+.a {
+    background-color: #fe9801;
+}
+
+.b {
+    background-color: #f4eec7;
+}
+
+.card-link {
+    color: #fe9801;
+}
+
+.bg-danger {
+    background-color: #697c37;
+}
+
+.form-control:focus{border-color: #fe9801;  box-shadow: none; -webkit-box-shadow: none;} 
+.has-error .form-control:focus{box-shadow: none; -webkit-box-shadow: none;}
+
+
+
+
